@@ -1,1 +1,2 @@
-# nokiasros_highlight_securecrt\n My personal keyword highlight for securecrt, works with dark backgroun
+# nokiasros_highlight_securecrt
+My personal keyword highlight for securecrt, works with dark background.
